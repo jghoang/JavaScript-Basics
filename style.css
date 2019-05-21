@@ -1,5 +1,4 @@
-*:not(.container) { 
-    outline: 1px dotted hsl(0, 0%, 0%); 
+*:not(.container) {  
     border-radius: 20px;
 }
 
